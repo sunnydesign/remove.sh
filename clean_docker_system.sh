@@ -1,3 +1,3 @@
-!# /bin/sh
+#! /bin/sh
 
-docker system prune --volumes
+docker system prune && docker system prune --volumes
