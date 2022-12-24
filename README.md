@@ -3,4 +3,4 @@
 Clean up Ubuntu.
 
 - `clean_boot.sh` - remove all unused kernels.
-- `clean_boot.sh` - remove all docker images with their volumes.
+- `clean_docker_system.sh` - remove all docker images with their volumes.
